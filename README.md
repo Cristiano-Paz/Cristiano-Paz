@@ -1,6 +1,6 @@
 ## 🌟 **Sobre Mim**
 
-Desenvolvedor com experiência em desenvolvimento web e backend, especializado em tecnologias como **Java**, **Kotlin**, **Spring Boot**, **Angular**, bancos de dados relacionais e não relacionais (**MySQL**, **Postgres**, **MongoDB**). Domínio em **APIs RESTful**, metodologias ágeis.
+Sou um Profissional com mais de 10 anos de experiência na área de tecnologia, com uma trajetória que abrange suporte técnico, infraestrutura, gestão de processos e, atualmente, desenvolvimento backend, especializado em tecnologias como **Java**, **Spring Boot**, **Angular**, bancos de dados relacionais e não relacionais (**MySQL**, **Postgres**, **MongoDB**). Domínio em **APIs RESTful**, metodologias ágeis.
 
 ---
 
