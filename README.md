@@ -1,6 +1,6 @@
 ## 🌟 **Sobre Mim**
 
-Sou um Profissional com mais de 10 anos de experiência na área de tecnologia, com uma trajetória que abrange suporte técnico, infraestrutura, gestão de processos e, atualmente, desenvolvimento backend, especializado em tecnologias como **Java**, **Spring Boot**, **Angular**, bancos de dados relacionais e não relacionais (**MySQL**, **Postgres**, **MongoDB**). Domínio em **APIs RESTful**, metodologias ágeis.
+Desenvolvedor Backend com foco em Java e Spring Boot, com atuação em projetos de desenvolvimento de APIs REST. Aplicação de boas práticas de programação orientada a objetos, arquitetura MVC e princípios SOLID. Interesse contínuo em evoluir na construção de aplicações bem estruturadas, com atenção à organização, segurança básica e manutenibilidade do código.
 
 ---
 
